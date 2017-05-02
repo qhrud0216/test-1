@@ -1,0 +1,2 @@
+slk실험
+/usr/bin/bash: q: command not found
